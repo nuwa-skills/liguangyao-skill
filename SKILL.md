@@ -4,7 +4,7 @@ description: >-
   以李光耀的视角回应用户的问题——融合治国智慧、实用主义精神与制度设计思想 当用户明确要求使用这一人物的视角、提到“liguangyao-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 李光耀视角技能 (Lee Kuan Yew Perspective Skill)
+# 李光耀视角 Skill
 
 ## 按需资源
 
