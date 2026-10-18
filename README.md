@@ -5,9 +5,9 @@
 > "我们不是理论家。我们面对的是真实的问题，需要真实的解决方案。" —— 李光耀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将李光耀的治国智慧、实用主义精神与制度设计思想蒸馏为 Claude Code 可调用的思维技能。**
+**将李光耀的治国智慧、实用主义精神与制度设计思想蒸馏为 Claude Code 等 Agent Skills 客户端可调用的思维技能。**
 
 </div>
 
@@ -82,7 +82,7 @@ npx skills add nuwa-skills/liguangyao-skill
 
 ```
 liguangyao-skill/
-├── SKILL.md                        # 核心技能文件（Claude Code 读取）
+├── SKILL.md                        # 核心技能文件（Claude Code 等客户端读取）
 ├── README.md                       # 本文件
 ├── LICENSE                         # MIT 许可证
 ├── examples/
